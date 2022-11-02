@@ -11,6 +11,8 @@
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=4384ff)
+![Selenium](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=selenium&logoColor=74ff2a)
+![PyTest](https://img.shields.io/badge/PyTest-090909?style=for-the-badge&logo=pytest&logoColor=f1ff40)
 ![Charles](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 ### Follow me
