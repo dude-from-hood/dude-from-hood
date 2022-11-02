@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "selenium_course",
+			"path": "../selenium_course"
+		},
+		{
+			"name": "dude-from-hood",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../assets"
+		}
+	],
+	"settings": {}
+}
