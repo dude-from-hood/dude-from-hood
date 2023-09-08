@@ -1,6 +1,6 @@
 ![Header](https://github.com/dude-from-hood/dude-from-hood/blob/main/assets/header.png)
 
-## I'm a Junior QA-engineer
+## QA-engineer who trying to shape the world.
 
 ### Languages and tools
 
