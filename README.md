@@ -1,5 +1,3 @@
-![Header](https://github.com/dude-from-hood/dude-from-hood/blob/main/assets/header.png)
-
 ## QA-engineer.
 
 ### Languages and tools
